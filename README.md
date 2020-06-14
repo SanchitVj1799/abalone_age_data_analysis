@@ -5,3 +5,4 @@ Contents of notebook:
 1. Importing and Reading Data
 2. Data Visualization(using seaborn, plotly, matplotlib)
 3. Feature Engineering and Preprocessing
+4. Machine Learning methods used for classification
