@@ -6,3 +6,6 @@ Contents of notebook:
 2. Data Visualization(using seaborn, plotly, matplotlib)
 3. Feature Engineering and Preprocessing
 4. Machine Learning methods used for classification
+
+
+Note: Visualization using plotly is not displayed in github so check them on colab.
